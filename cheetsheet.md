@@ -2,6 +2,9 @@
 
 Thanks to [GitHub](https://github.com/github/training-kit/blob/master/downloads/github-git-cheat-sheet.md).
 
+---
+## Coniguring
+
 Configure user information for all local repositories
 
 ```bash
@@ -23,8 +26,8 @@ git config --global color.ui auto
 Enables helpful colorization of command line output
 
 ---
+## Branches
 
-Branches
 Branches are an important part of working with Git. Any commits you make will be made on the branch you’re currently “checked out” to. Use git status to see which branch that is.
 
 ```bash
@@ -52,7 +55,6 @@ git branch -d [branch-name]
 Deletes the specified branch
 
 ---
-
 ## Make changes
 
 Browse and inspect the evolution of project files
@@ -166,3 +168,5 @@ git pull
 ```
 
 *Updates your current local working branch with all new commits from the corresponding remote branch on GitHub. git pull is a combination of git fetch and git merge.*
+
+---
