@@ -1,6 +1,6 @@
-# Created this for beginingers who wants to learn how to use GitHub
+# Created this for beginingers who wants to learn how to use GitHub and git
 
-
+## A few sites to mention when learning
 
 -Tutorials from [Atlassian](https://www.atlassian.com/git/tutorials)
 
@@ -9,3 +9,5 @@
 -Learn git-branching with [LearnGitBranching](https://learngitbranching.js.org/)
 
 -Find GitHub Cheat-Sheet [here](https://github.github.com/training-kit/downloads/github-git-cheat-sheet/)
+
+---
